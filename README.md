@@ -2,7 +2,7 @@ lab07 for Huiyu Zhang(ScudBt)
 
  Github repo: https://github.com/ucsb-cs56-w20/lab07-ScudBt/
  
- Javadoc: https://ucsb-cs56-w20.github.io/lab07-ScudBt/
+ Javadoc: https://ucsb-cs56-w20.github.io/lab07-ScudBt/   
 
 # Configuration for OAuth
 
